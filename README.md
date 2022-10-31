@@ -7,7 +7,7 @@
   <b>Discipline | <b> Electrical Engineering 
 :--|:--|
 <b> Lab | <b> **Analog Signals, Network and Measurement Laboratory Virtual Lab**
-<b> Experiment|     <b> **Frequency response of R-L-C series Circuit**
+<b> Experiment|     <b> **Q meter Experiment**
 
 
 <b>Name of Developer | <b> **Prof. A.K Deb**
@@ -21,8 +21,5 @@
 
 SrNo | Name | VLabs Developer or Integration Engineer | Designation | Department| Institute
 :--|:--|:--|:--|:--|:--|
-1 | **Piyali Chattopadhyay** | Developer | Research Engineer | Department of Electrical Engineering | IIT Kharagpur | 
-2 | **Udita Mandal** | Developer | Senior Project Assistant | Department of Electrical Engineering | IIT Kharagpur | 
-3 | **Tanmoy Dam** | Developer | Senior Project Assistant | Department of Electrical Engineering | IIT Kharagpur |
- 4 | **Jogendra Nath Kundu** | Developer | Project Engineer | Department of Electrical Engineering | IIT Kharagpur |
- 5 | **Anirban Nanda** | Developer | Senior Project Assistant | Department of Electrical Engineering | IIT Kharagpur | 
+1 | **Udita Mandal** | Developer | Senior Project Assistant | Department of Electrical Engineering | IIT Kharagpur | 
+2 | **Subhasis Mahata** |  AWS Integration Engineer  | Senior Project Officer | Department of Mechanical Engineering | IIT Kharagpur |

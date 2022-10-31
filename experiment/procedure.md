@@ -1,8 +1,19 @@
 ## Procedure
 
-- Insert different values of $\theta$ within the joint range as prescribed in theory part and then click ok to get the output orientation and position of the end effector.
-- To see the individual movements of the robot links drag the ***sliders*** on the controller panel.
-- Manipulator position is shown in a **3D graph** for every submission of joint values.
-- The view can be rotated about a point by keeping the ***left mouse button*** pressed and rotating the mouse.
-- The view can be translated by keeping the ***right mouse button*** pressed and translating the mouse in the desired direction.
-- The ***scroll button*** or ***middle mouse button*** can be used for zooming.
+<p align="center">
+
+![Rm501 Figure](images/pic1.jpg)
+
+***Fig 1: Circuit Diagram for Q meter experiment***
+</p>
+- Set the Shunt Resistance (Rsh) value as small as possible (Say 0.02 Ohm). Set all the parameters (R, L, C) by yourself.
+ </br>
+- Set the voltage value of the oscillator (E=10 V).
+ </br>
+- At f=100 Hz. Check the value of voltage drop across capacitor. (EC).
+ </br>
+- Change the frequency until EC reach at the maximum value. Then calculate the value Q measured using this formula `Q_(meas)=(omega_0L)/(R+R_(sh))`.
+ </br>
+- Calculate the true value of unknown coil by using this formula `Q_(true)=(omega_0L)/R`
+ </br>
+- First resonance occurs due to frequency (say f1). Note down the value of tuning capacitor C. (say C1). Double the input frequency (f1) (say f2=2*f1). Change the tuning capacitor value until resonance occurs. Note down the value of tuning capacitor C. (say C2). Discharge capacitance (Cd) would be =(C1-4*C2)/3.
